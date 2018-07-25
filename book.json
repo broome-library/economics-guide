@@ -5,6 +5,6 @@
     },
     "title":"Economics Research Guide",
     "variables": {
-        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/dhoffmann.md"        
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/phadley.md"        
     }
 }
